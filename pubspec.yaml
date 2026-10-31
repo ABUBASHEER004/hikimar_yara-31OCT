@@ -2,7 +2,7 @@ name: hikimar_yara
 description: "Premium bilingual Hausa and English educational storytelling app for children"
 publish_to: "none"
 
-version: 2.0.0+2
+version: 2.1.0+3
 
 environment:
   sdk: ^3.12.2

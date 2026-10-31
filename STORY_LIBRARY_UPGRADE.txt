@@ -1,0 +1,28 @@
+HIKIMAR YARA — STORY LIBRARY UPGRADE
+
+Total stories: 66
+Languages: Hausa and English
+Original stories: 40 (each expanded with two additional narrative chapters)
+New stories: 26 (new bilingual stories)
+
+Length check:
+- Hausa story text: minimum 358 words; average 464 words.
+- English story text: minimum 312 words; average 414 words.
+
+Story writing structure:
+- Story opening and setting
+- Main characters and motivation
+- A clear challenge or mystery
+- Attempts, setbacks, and dialogue
+- Resolution
+- A practical moral lesson
+
+TTS preparation:
+- Paragraph breaks are retained for natural pauses.
+- Punctuation and dialogue are formatted for speech.
+- Existing TTS service splits long stories into smaller speech chunks.
+
+Note:
+The Android/phone TTS voice still depends on voices installed on the device.
+A genuine Hausa voice is not guaranteed on every Android device.
+Run `flutter pub get`, `flutter analyze`, and `flutter test` before release.
